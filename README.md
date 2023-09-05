@@ -3,7 +3,7 @@
 ---
 ## Authors
 * Vojtěch Kaše
-
+* 
 
 ## License
 CC-BY-SA 4.0, see attached License.md
